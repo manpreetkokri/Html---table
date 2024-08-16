@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <body>
+<h3>Student registration</h3>
+<form action="/action_page.php">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname"
+<div><form action="/action_page.php">
+  <label for="fname">Last name:</label>
+  <input type="text" id="fname"<div>
+ <form action="/action_page.php">
+  <label for="fname"> Phone no :</label>
+  <input type="text" id="fname"</div>
+  <form action="/action_page.php"><label for="fname">   city  :   </label>
+  <input type="text"id="fname"
+  <label for="fname"></div>
+  <hr>
+  <h3>Gender</h3>
+ <div> <input type="radio"id="Male"name="Gender"value="male"
+  <label for="male">Male</label></div>
+  <input type="radio"id='Female'name="Gender"value="Female"
+  <label for="female">Female</label>
+  <hr>
+  <h3>Hobbies</h3>
+  <form action="/action_page.php">  <input type="checkbox"id="hobbies2"name="hobbies2"value="footbal"
+  <label for="hobbies2">Footbal</label><br>
+  <input type="checkbox"id="hobbies2"name="hibbies2"value="cticket"
+  <label for="hobbies2">Cricket</label><br>
+  <input type="checkbox"id="hobbies3"name="hobbies"value="chess"
+  <label for="hobbies3">Chess</label><br>
+  <hr>
+  <input type="password"id="password"name="password"<hr>
+  <button type="submit"class="registerbtn">Register</button><hr>
+  
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
